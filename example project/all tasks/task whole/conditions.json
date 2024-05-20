@@ -1,0 +1,1 @@
+{"xn_cons": {"FE": ["CHANGING", [0, 1, 0.01], 101], "NI": ["CHANGING", [0, 1, 0.01], 101], "CR": ["CHANGING", [0, 1, 0.01], 101], "MN": ["DEPEND"]}, "xn_chg_cons": {"FE": ["CHANGING", [0, 1, 0.01], 101], "NI": ["CHANGING", [0, 1, 0.01], 101], "CR": ["CHANGING", [0, 1, 0.01], 101]}, "shape": [101, 101, 101], "t_step": 4}
