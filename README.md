@@ -1,2 +1,2 @@
 # ML-Scheil
-Machine learning enhanced Scheil model calculation, and algorithm for finding composition path for graded functionally metal.
+Machine learning enhanced the Scheil-Gulliver model calculation, and an algorithm for linear gradient pathway planning for graded functionally metals.
